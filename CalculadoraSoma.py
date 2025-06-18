@@ -1,7 +1,7 @@
 #Calculadora de Soma
 
 #Solicitar os dados a seguir: numero1: 12 e numero2: 14
-print("Abaixo, favor digitar preencher com cuidado")
+print("Abaixo, favor preencher com cuidado")
 numero1 = int(input("Digite o primeiro número: "))
 numero2 = int(input("Digite o segundo número: "))
 
